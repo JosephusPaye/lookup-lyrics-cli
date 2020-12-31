@@ -17,7 +17,7 @@ npm install -g @josephuspaye/lookup-lyrics-cli
 The following command looks up definitions of the word "reticent":
 
 ```bash
-lookup happy "pharrell williams"
+lyrics happy "pharrell williams"
 ```
 
 <details>
@@ -124,7 +124,7 @@ Clap along if you feel like that's what you wanna do
 ## Usage
 
 ```bash
-lookup --help
+lyrics --help
 ```
 
 ```
