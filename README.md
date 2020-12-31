@@ -12,9 +12,7 @@ npm install -g @josephuspaye/lookup-lyrics-cli
 
 ## Example
 
-### Look up lyri
-
-The following command looks up definitions of the word "reticent":
+The following command looks up lyrics for the song _Happy_ by Pharrell Williams:
 
 ```bash
 lyrics happy "pharrell williams"
