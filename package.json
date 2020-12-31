@@ -1,6 +1,6 @@
 {
   "name": "@josephuspaye/lookup-lyrics-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Look up lyrics of songs from online sources on the command line.",
   "main": "dist/main.js",
   "repository": "https://github.com/JosephusPaye/lookup-lyrics-cli.git",
